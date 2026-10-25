@@ -1,0 +1,154 @@
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient name: Enter age: Enter gender: Enter phone number: Enter disease / problem: Patient registered successfully. Patient ID = 101
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to admit: Select room type: 1. General  2. Private  3. ICU
+Enter room type choice: Invalid room type choice! Admission cancelled.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: 
+---------- LIST OF PATIENTS ----------
+Patient ID : 101
+Name   : Suresh Verma
+Age    : 40
+Gender : Male
+Phone  : 9812345678
+Disease    : Diabetes
+Doctor     : Not Assigned
+Status     : Not Admitted
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to admit: Select room type: 1. General  2. Private  3. ICU
+Enter room type choice: Patient admitted. Room No. = 201 (General)
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to admit: Patient is already admitted.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to discharge: Enter number of days stayed: Invalid number of days! Days must be at least 1. Discharge cancelled.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to discharge: Enter number of days stayed: 
+---------- DISCHARGE BILL ----------
+Patient ID   : 101
+Name         : Suresh Verma
+Room Type    : General (Room No. 201)
+Days Stayed  : 2
+Consultation Fee         : Rs. 500
+Room Charges (2 x 1000) : Rs. 2000
+Total Bill               : Rs. 2500
+--------------------------------------
+Patient discharged successfully.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to discharge: Patient is not admitted, so discharge is not possible.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID: Patient with ID 999 not found.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to search: Invalid input! Patient ID must be a number.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to discharge: Patient with ID 999 not found.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Thank you. Exiting the system.

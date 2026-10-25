@@ -1,0 +1,220 @@
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient name: Enter age: Enter gender: Enter phone number: Enter disease / problem: Patient registered successfully. Patient ID = 101
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient name: Enter age: Enter gender: Enter phone number: Enter disease / problem: Patient registered successfully. Patient ID = 102
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: 
+---------- LIST OF PATIENTS ----------
+Patient ID : 101
+Name   : Ravi Kumar
+Age    : 35
+Gender : Male
+Phone  : 9876543210
+Disease    : Fever
+Doctor     : Not Assigned
+Status     : Not Admitted
+----------------------------------------
+Patient ID : 102
+Name   : Meena Sharma
+Age    : 28
+Gender : Female
+Phone  : 9876501234
+Disease    : Fracture
+Doctor     : Not Assigned
+Status     : Not Admitted
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to search: Patient ID : 101
+Name   : Ravi Kumar
+Age    : 35
+Gender : Male
+Phone  : 9876543210
+Disease    : Fever
+Doctor     : Not Assigned
+Status     : Not Admitted
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to search: Patient with ID 999 not found.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: 
+---------- LIST OF DOCTORS ----------
+ID   Name                 Specialization     Phone
+1    Dr. Ananya Rao       Cardiology         9000000001
+2    Dr. Vikram Reddy     General Medicine   9000000002
+3    Dr. Sneha Patel      Pediatrics         9000000003
+4    Dr. Arjun Mehta      Orthopedics        9000000004
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID: 
+---------- LIST OF DOCTORS ----------
+ID   Name                 Specialization     Phone
+1    Dr. Ananya Rao       Cardiology         9000000001
+2    Dr. Vikram Reddy     General Medicine   9000000002
+3    Dr. Sneha Patel      Pediatrics         9000000003
+4    Dr. Arjun Mehta      Orthopedics        9000000004
+Enter doctor ID to assign: Doctor Dr. Arjun Mehta assigned to patient Meena Sharma.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID: 
+---------- LIST OF DOCTORS ----------
+ID   Name                 Specialization     Phone
+1    Dr. Ananya Rao       Cardiology         9000000001
+2    Dr. Vikram Reddy     General Medicine   9000000002
+3    Dr. Sneha Patel      Pediatrics         9000000003
+4    Dr. Arjun Mehta      Orthopedics        9000000004
+Enter doctor ID to assign: Doctor Dr. Vikram Reddy assigned to patient Ravi Kumar.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to admit: Select room type: 1. General  2. Private  3. ICU
+Enter room type choice: Patient admitted. Room No. = 201 (Private)
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient ID to discharge: Enter number of days stayed: 
+---------- DISCHARGE BILL ----------
+Patient ID   : 102
+Name         : Meena Sharma
+Room Type    : Private (Room No. 201)
+Days Stayed  : 3
+Consultation Fee         : Rs. 500
+Room Charges (3 x 2500) : Rs. 7500
+Total Bill               : Rs. 8000
+--------------------------------------
+Patient discharged successfully.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: 
+---------- LIST OF PATIENTS ----------
+Patient ID : 101
+Name   : Ravi Kumar
+Age    : 35
+Gender : Male
+Phone  : 9876543210
+Disease    : Fever
+Doctor     : Dr. Vikram Reddy
+Status     : Not Admitted
+----------------------------------------
+Patient ID : 102
+Name   : Meena Sharma
+Age    : 28
+Gender : Female
+Phone  : 9876501234
+Disease    : Fracture
+Doctor     : Dr. Arjun Mehta
+Status     : Not Admitted
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Invalid choice! Please try again.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Thank you. Exiting the system.

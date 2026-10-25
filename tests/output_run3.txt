@@ -1,0 +1,22 @@
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Enter patient name: Enter age: Invalid age! Patient not registered.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Display All Doctors
+5. Assign Doctor to Patient
+6. Admit Patient
+7. Discharge Patient and Generate Bill
+8. Exit
+Enter your choice: Thank you. Exiting the system.
