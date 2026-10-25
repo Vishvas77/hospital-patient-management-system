@@ -25,6 +25,10 @@ public class Patient extends Person {
     public String getRoomType()    { return roomType; }
     public int getRoomNo()         { return roomNo; }
 
+    public void setDisease(String disease) {
+        this.disease = disease;
+    }
+
     public void setDoctorName(String doctorName) {
         this.doctorName = doctorName;
     }

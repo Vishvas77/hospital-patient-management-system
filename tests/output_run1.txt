@@ -3,33 +3,51 @@
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Enter patient name: Enter age: Enter gender: Enter phone number: Enter disease / problem: Patient registered successfully. Patient ID = 101
 
 ===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Enter patient name: Enter age: Enter gender: Enter phone number: Enter disease / problem: Patient registered successfully. Patient ID = 102
 
 ===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: 
 ---------- LIST OF PATIENTS ----------
 Patient ID : 101
@@ -55,11 +73,17 @@ Status     : Not Admitted
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Enter patient ID to search: Patient ID : 101
 Name   : Ravi Kumar
 Age    : 35
@@ -74,22 +98,34 @@ Status     : Not Admitted
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Enter patient ID to search: Patient with ID 999 not found.
 
 ===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: 
 ---------- LIST OF DOCTORS ----------
 ID   Name                 Specialization     Phone
@@ -102,11 +138,17 @@ ID   Name                 Specialization     Phone
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Enter patient ID: 
 ---------- LIST OF DOCTORS ----------
 ID   Name                 Specialization     Phone
@@ -120,11 +162,17 @@ Enter doctor ID to assign: Doctor Dr. Arjun Mehta assigned to patient Meena Shar
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Enter patient ID: 
 ---------- LIST OF DOCTORS ----------
 ID   Name                 Specialization     Phone
@@ -138,11 +186,17 @@ Enter doctor ID to assign: Doctor Dr. Vikram Reddy assigned to patient Ravi Kuma
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Enter patient ID to admit: Select room type: 1. General  2. Private  3. ICU
 Enter room type choice: Patient admitted. Room No. = 201 (Private)
 
@@ -150,11 +204,17 @@ Enter room type choice: Patient admitted. Room No. = 201 (Private)
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Enter patient ID to discharge: Enter number of days stayed: 
 ---------- DISCHARGE BILL ----------
 Patient ID   : 102
@@ -171,11 +231,17 @@ Patient discharged successfully.
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: 
 ---------- LIST OF PATIENTS ----------
 Patient ID : 101
@@ -201,20 +267,32 @@ Status     : Not Admitted
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Invalid choice! Please try again.
 
 ===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
 1. Register New Patient
 2. Display All Patients
 3. Search Patient by ID
-4. Display All Doctors
-5. Assign Doctor to Patient
-6. Admit Patient
-7. Discharge Patient and Generate Bill
-8. Exit
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
 Enter your choice: Thank you. Exiting the system.

@@ -17,6 +17,8 @@ public class Person {
     public String getGender() { return gender; }
     public String getPhone()  { return phone; }
 
+    public void setPhone(String phone) { this.phone = phone; }
+
     public void displayBasicDetails() {
         System.out.println("Name   : " + name);
         System.out.println("Age    : " + age);

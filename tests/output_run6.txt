@@ -1,0 +1,328 @@
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient name: Enter age: Enter gender: Enter phone number: Enter disease / problem: Patient registered successfully. Patient ID = 101
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient name to search: Patient ID : 101
+Name   : Anil Gupta
+Age    : 50
+Gender : Male
+Phone  : 9822222222
+Disease    : Back Pain
+Doctor     : Not Assigned
+Status     : Not Admitted
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient name to search: No patient found with name Nobody.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient ID to update: Enter new phone number: Enter new disease / problem: Patient details updated successfully.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: 
+---------- LIST OF PATIENTS ----------
+Patient ID : 101
+Name   : Anil Gupta
+Age    : 50
+Gender : Male
+Phone  : 9000011111
+Disease    : Slip Disc
+Doctor     : Not Assigned
+Status     : Not Admitted
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient ID: 
+---------- LIST OF DOCTORS ----------
+ID   Name                 Specialization     Phone
+1    Dr. Ananya Rao       Cardiology         9000000001
+2    Dr. Vikram Reddy     General Medicine   9000000002
+3    Dr. Sneha Patel      Pediatrics         9000000003
+4    Dr. Arjun Mehta      Orthopedics        9000000004
+Enter doctor ID for the appointment: Enter appointment date (e.g. 28-10-2026): Enter appointment time (e.g. 10:30 AM): Appointment booked successfully. Appointment ID = 1
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient ID: Patient with ID 999 not found.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: 
+---------- LIST OF APPOINTMENTS ----------
+Appointment ID : 1
+Patient        : Anil Gupta (ID 101)
+Doctor         : Dr. Arjun Mehta
+Date           : 28-10-2026
+Time           : 10:30 AM
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient name: Enter age: Enter gender: Enter phone number: Enter disease / problem: Patient registered successfully. Patient ID = 102
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient ID to admit: Select room type: 1. General  2. Private  3. ICU
+Enter room type choice: Patient admitted. Room No. = 201 (General)
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient ID to delete: Cannot delete an admitted patient. Discharge the patient first.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient ID to discharge: Enter number of days stayed: 
+---------- DISCHARGE BILL ----------
+Patient ID   : 102
+Name         : Priya Nair
+Room Type    : General (Room No. 201)
+Days Stayed  : 1
+Consultation Fee         : Rs. 500
+Room Charges (1 x 1000) : Rs. 1000
+Total Bill               : Rs. 1500
+--------------------------------------
+Patient discharged successfully.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient ID to delete: Patient record deleted successfully.
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: 
+---------- HOSPITAL SUMMARY ----------
+Total Registered Patients : 1
+Patients Admitted Now     : 0
+Total Appointments Booked : 1
+Total Revenue Collected   : Rs. 1500
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: 
+---------- LIST OF APPOINTMENTS ----------
+Appointment ID : 1
+Patient        : Anil Gupta (ID 101)
+Doctor         : Dr. Arjun Mehta
+Date           : 28-10-2026
+Time           : 10:30 AM
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Thank you. Exiting the system.

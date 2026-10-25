@@ -1,0 +1,84 @@
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: 
+---------- LIST OF PATIENTS ----------
+Patient ID : 101
+Name   : Kavita Rao
+Age    : 30
+Gender : Female
+Phone  : 9811111111
+Disease    : Migraine
+Doctor     : Not Assigned
+Status     : Admitted (General, Room No. 201)
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Enter patient name: Enter age: Enter gender: Enter phone number: Enter disease / problem: Patient registered successfully. Patient ID = 102
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: 
+---------- HOSPITAL SUMMARY ----------
+Total Registered Patients : 2
+Patients Admitted Now     : 1
+Total Appointments Booked : 0
+Total Revenue Collected   : Rs. 0
+----------------------------------------
+
+===== HOSPITAL PATIENT MANAGEMENT SYSTEM =====
+1. Register New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Search Patient by Name
+5. Update Patient Details
+6. Delete Patient Record
+7. Display All Doctors
+8. Assign Doctor to Patient
+9. Book Appointment
+10. View All Appointments
+11. Admit Patient
+12. Discharge Patient and Generate Bill
+13. View Hospital Summary
+14. Exit
+Enter your choice: Thank you. Exiting the system.
